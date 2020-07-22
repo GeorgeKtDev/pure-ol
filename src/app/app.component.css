@@ -1,0 +1,9 @@
+#box {
+    width: 880px;
+    height: 880px;
+    background-color: lightblue;
+    box-shadow: 5px 10px #888888;
+}
+.container {
+    text-align: -webkit-center;
+}

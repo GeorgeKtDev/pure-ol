@@ -1,0 +1,76 @@
+{
+    "properties": {
+        "lat": 40.736851,
+        "long": 22.920227,
+        "zoom": 10
+    },
+    "points": {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.920227,
+                        40.736851
+                    ]
+                },
+                "properties": {
+                    "marker-color": "#d53030",
+                    "marker-size": "large",
+                    "marker-symbol": "oil-well",
+                    "name": "ABBOTT NEIGHBORHOOD PARK"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        23.727539,
+                        37.983810
+                    ]
+                },
+                "properties": {
+                    "marker-color": "#d53030",
+                    "marker-size": "large",
+                    "marker-symbol": "oil-well",
+                    "name": "ABBOTT NEIGHBORHOOD PARK"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        21.734573,
+                        38.246639
+                    ]
+                },
+                "properties": {
+                    "marker-color": "#d53030",
+                    "marker-size": "large",
+                    "marker-symbol": "oil-well",
+                    "name": "ABBOTT NEIGHBORHOOD PARK"
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        22.94248,
+                        39.36103
+                    ]
+                },
+                "properties": {
+                    "marker-color": "#d53030",
+                    "marker-size": "large",
+                    "marker-symbol": "oil-well",
+                    "name": "ABBOTT NEIGHBORHOOD PARK"
+                }
+            }
+        ]
+    }
+}
